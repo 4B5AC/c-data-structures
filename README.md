@@ -6,11 +6,3 @@
   <li>Look at the implementation of them.</li>
   <li>Feel free to use this.</li>
 </ul>
-
-<h3>Data structures</h3>
-<p>
-  <ol display="flex" flexDirection="row">
-    <li>c_vector</li>
-    <li>c_linked_list</li>
-  </ol>
-</p>
